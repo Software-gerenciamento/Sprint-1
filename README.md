@@ -1,3 +1,3 @@
 # Sprint Backlog
-Contém todos os códigos necessários para implementação da primeira Sprint que consistem em criar a interface inicial do Sistema de gerenciamento, realizar a conexão da interface de cadastro com o banco de dados(pgAdmin) e realizar testes funcionais utilizando o JUnit.
+Contém todos os códigos necessários para implementação do caso de uso gerenciar clientes que possui funções como: cadastrar um novo cliente, apagar o cadastro do cliente, consultar se o cliente está cadastrado e listar clientes (Onde aparecem todos os clientes cujo nome começa com a letra digitada).
 
